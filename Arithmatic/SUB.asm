@@ -13,4 +13,12 @@ MOV BH , 00H
 MOV BL , 01H
 
 SUB BL , AL
-SUB BH , AH
+SUB BH , AH  
+
+#DAS (Decimal Adjust after Subtraction)
+MOV AL , 35H
+MOV BL , 47H  
+
+SUB AL , BL     
+
+DAS
