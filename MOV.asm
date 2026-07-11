@@ -1,0 +1,7 @@
+MOV AH , 25H
+MOV BH , 40H
+
+MOV CH , AH
+MOV DH , BH    
+
+XCHG BH , DH
