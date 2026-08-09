@@ -1,0 +1,4 @@
+MOV AX , 15H
+MOV BX , 10H
+
+AND AX , BX

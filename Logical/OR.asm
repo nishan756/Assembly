@@ -1,0 +1,11 @@
+MOV AX , 05H
+MOV BX , 05H
+OR AX , BX       
+
+MOV AX , 00H
+MOV BX , 05H
+OR AX , BX
+
+MOV AX , 00H
+MOV BX , 00H
+OR AX , BX

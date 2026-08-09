@@ -1,0 +1,4 @@
+MOV AX , 02H
+MOV BX , 02H
+
+XOR AX , BX
