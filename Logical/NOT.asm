@@ -1,0 +1,2 @@
+MOV AH , 20H
+NOT AH
