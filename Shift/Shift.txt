@@ -1,0 +1,5 @@
+চার প্রকার শিফটিং করা যায় । 
+Logical Shift -> Logical Left Shift(SHL) + Logical Right Shift(SHR)
+Arithmetic Shift -> Shift Arithmetic Left(SAL) + Shift Arithmetic Right(SAR)
+
+Shifting এর মূল কন্সেপ্ট হলো , যেদিকে Shifting হবে সেদিকে প্রতিতি বিট এক ঘর করে চেপে যাবে । এবং একদম বামে বা ডানে ফাকা জায়গায় ০ দিয়ে পূরন হবে। তবে ০ দিয়ে পূরন হবে শুধুমাত্র Logical Shifting এ। Arithmetic Shifting এ একদম বামে বা ডানে যাই থাকবে সেটাই বসবে। এক্সট্রা ০ বসবে না।
