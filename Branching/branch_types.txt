@@ -1,0 +1,25 @@
+Branching : কোন Condition বা  Condition ছাড়া প্রোগ্রাম কাউন্টারকে মেমরির অন্য কোন লোকেশনে পাঠানো কে ব্রাঞ্চিং বলে। 
+
+ব্রাঞ্চিং ২ প্রকার ঃ 
+
+> Conditional 
+> Unconditional
+
+Conditions                     Syntax 
+
+1) Greater than or Equal       BGE label;
+
+2) Less than or Equal          BLE label;
+
+3) Equal                       BEQ label;
+
+4) Not Equal                   BNE label;
+
+5) Greater Than                BGT label;
+
+6) Less Than                   BLT label;
+
+
+Unconditional Branch :
+
+Syntax -> B label
